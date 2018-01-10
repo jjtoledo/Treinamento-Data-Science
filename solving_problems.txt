@@ -3,4 +3,5 @@
 2 - What are the outputs?
 3 - Work through some examples by hand
 4 - Simple mechanical solution
-5 - Don't optimize prematurely! 
+5 - Don't optimize prematurely!
+6 - Develop the solution incrementally
