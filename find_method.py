@@ -17,7 +17,7 @@ print s.find(s + '!!!') + 1
 i = 2
 t = 'sa'
 s = 'fdsaaf'
-#print s[i:].find(t)
-#print s.find(t)[i:]
-#print s[i:].find(t) + i
+# print s[i:].find(t)
+# print s.find(t)[i:]
+# print s[i:].find(t) + i
 print s[i:].find(t[i:])
