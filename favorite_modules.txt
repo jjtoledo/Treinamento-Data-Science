@@ -1,0 +1,10 @@
+csv: muito conveniente para ler e escrever arquivos csv
+collections: extensões úteis dos tipos de dados habituais, incluindo OrderedDict, defaultdict e namedtuple
+random: gera números pseudo-aleatórios, embaralha sequências aleatoriamente e escolhe itens aleatórios
+string: mais funções em strings. Este módulo também contém coleções úteis de letras como string.digits (uma string contendo todos os caracteres com dígitos válidos).
+re: padronização em strings através de expressões regulares
+math: algumas funções matemáticas padrão
+os: interagindo com sistemas operacionais
+os.path: submódulo de os para manipular nomes de caminho
+sys: trabalhar diretamente com o interpretador Python
+json: bom para ler e escrever arquivos json (bom para o trabalho na web)
