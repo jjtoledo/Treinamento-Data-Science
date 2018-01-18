@@ -1,0 +1,47 @@
+Solving problems process:
+0 - Don't panic
+1 - What are the inputs?
+2 - What are the outputs?
+3 - Work through some examples by hand
+4 - Simple mechanical solution
+5 - Don't optimize prematurely!
+6 - Develop the solution incrementally
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Data Analisys Proccess:
+1 - Question
+2 - Wrangle
+3 - Explore
+4 - Draw Conclusions
+5 - Communicate
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Favorite Python Modules:
+csv: muito conveniente para ler e escrever arquivos csv
+collections: extensões úteis dos tipos de dados habituais, incluindo OrderedDict, defaultdict e namedtuple
+random: gera números pseudo-aleatórios, embaralha sequências aleatoriamente e escolhe itens aleatórios
+string: mais funções em strings. Este módulo também contém coleções úteis de letras como string.digits (uma string contendo todos os caracteres com dígitos válidos).
+re: padronização em strings através de expressões regulares
+math: algumas funções matemáticas padrão
+os: interagindo com sistemas operacionais
+os.path: submódulo de os para manipular nomes de caminho
+sys: trabalhar diretamente com o interpretador Python
+json: bom para ler e escrever arquivos json (bom para o trabalho na web)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Links para ver depois:
+Trabalho do Facebook sobre a exposição a informações ideologicamente diversas:
+https://research.facebook.com/publications/exposure-to-ideologically-diverse-information-on-facebook/
+
+Postagem no blog do OKCupid sobre as melhores perguntas a serem feitas em um primeiro encontro:
+http://blog.okcupid.com/index.php/the-best-questions-for-first-dates/
+
+Como o Walmart usa análise de dados para aumentar suas vendas:
+http://www.dezyre.com/article/how-big-data-analysis-helped-increase-walmart-s-sales-turnover/109
+
+Como Bill James aplicou análise de dados ao baseball:
+https://en.wikipedia.org/wiki/Bill_James
+
+Uma empresa farmacêutica utiliza análise de dados para prever quais compostos químicos são mais prováveis de gerar medicamentos eficazes:
+http://www.numerate.com/numerates-ranking-technology-pharmaceutical-rd-gains-u-s-patent/
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
